@@ -1,0 +1,30 @@
+{
+  "name": "backend-mvc-workshop-07-2023",
+  "version": "1.0.0",
+  "description": "**!!! FIRST STEP REQUIRED BEFORE STARTING THE FIRST EXERCISE!!!!!**",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cloudd123/backend-mvc-workshop-07-2023.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cloudd123/backend-mvc-workshop-07-2023/issues"
+  },
+  "homepage": "https://github.com/cloudd123/backend-mvc-workshop-07-2023#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mysql2": "^3.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
