@@ -1,0 +1,21 @@
+{
+  "name": "backend-mvc-workshop-07-2023",
+  "version": "1.0.0",
+  "description": "**!!! FIRST STEP REQUIRED BEFORE STARTING THE FIRST EXERCISE!!!!!**",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^3.6.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.3.1",
+    "nodemon": "^3.0.1"
+  }
+}
